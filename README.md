@@ -129,7 +129,7 @@ AI Analysis     Risk Engine     Vulnerability Scanner
 
 ## Security Findings
 
-![Findings](images/security-findings.png)
+![Findings](images/securityfindings.png)
 
 ---
 
