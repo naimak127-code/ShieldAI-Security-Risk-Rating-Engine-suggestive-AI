@@ -115,12 +115,6 @@ AI Analysis     Risk Engine     Vulnerability Scanner
 
 ---
 
-## Security Dashboard
-
-![Dashboard](images/dashboard.png)
-
----
-
 ## Vulnerability Heatmap
 
 ![Heatmap](images/Heatmaps.png)
