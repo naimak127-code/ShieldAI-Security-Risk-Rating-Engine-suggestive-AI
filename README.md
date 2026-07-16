@@ -1,7 +1,7 @@
 # 🛡 ShieldAI - AI-Powered Security Risk Rating Engine
 
 <p align="center">
-  <img src="images/intropage.png" alt="ShieldAI Banner" width="100%">
+  <img src="images/banner1.png" alt="ShieldAI Banner" width="100%">
 </p>
 
 <p align="center">
